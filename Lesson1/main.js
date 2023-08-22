@@ -49,9 +49,9 @@ console.log(typeof c);
 //
 // Додаткове для тих хто цікавився prompt`oм
 // - За допомогою 3х різних prompt() отримати 3 слова які являються вашими Імям, По-Батькові та роками. та вивести в консоль
-let firstName1=prompt('Enter your firstName');
+let firstName1=prompt('enter yur firstName');
 let middleName1=prompt('Enter your middleName');
-let lastName1=prompt('Enter your lastName');
+let age=prompt('Enter your age');
 
-const result3= `${firstName1} ${middleName1} ${lastName1}`;
+const result3= `${firstName1} ${middleName1} ${age}`;
 console.log(result3)
